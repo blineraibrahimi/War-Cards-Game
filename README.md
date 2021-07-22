@@ -3,7 +3,7 @@
 ## Description
 This an IOS application where users can shuffle thru cards by pressing the Deal Button. Users will be competing with the device.
 <p>
-    <img src="extraPhoto/warCardsGame.png">
+    <img src="extraPhoto/warCardsGame.png" width="350px">
 </p>
 
 ## Instructions to run
